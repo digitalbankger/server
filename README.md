@@ -1,4 +1,4 @@
-# GoTodo
+# Go RestAPI service
 GoTodo is a todo list api written in Go.
 
 ## Usage
